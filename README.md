@@ -3,10 +3,10 @@
 
 - 欢迎提交各种卷的issue让大家开心开心
 
-# juanable list
+# juanable list （我还能卷）
 1. [#1](https://github.com/Rennbon/juan/issues/1)
 
 
-# unjuanable list
+# unjuanable list （我卷不动了）
 
 
