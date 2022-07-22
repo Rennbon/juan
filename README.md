@@ -4,7 +4,7 @@
 - 欢迎pr各种卷的事迹
 
 # 华山论卷
-1. [#1](https://github.com/Rennbon/juan/issues)
+1. [#1](https://github.com/Rennbon/juan/issues/1)
 
 
 
